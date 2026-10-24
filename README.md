@@ -112,4 +112,3 @@ Lecture notes, proof supplements, and problem banks for graduate statistics cour
 - [ch08](<Survival-Analysis/ch08.pdf>)
 - [ch09](<Survival-Analysis/ch09.pdf>)
 - [ch10](<Survival-Analysis/ch10.pdf>)
-
