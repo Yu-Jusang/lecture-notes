@@ -1,0 +1,115 @@
+# Lecture Notes
+
+Lecture notes, proof supplements, and problem banks for graduate statistics courses (PDF).
+
+## Advanced Data Analysis
+
+- [ADA_Part1_Predictive_Modeling_ch01-07](<Advanced-Data-Analysis/ADA_Part1_Predictive_Modeling_ch01-07.pdf>)
+- [ADA_Part2_Causal_Discovery_ch08-13](<Advanced-Data-Analysis/ADA_Part2_Causal_Discovery_ch08-13.pdf>)
+- [ch01](<Advanced-Data-Analysis/ch01.pdf>)
+- [ch02](<Advanced-Data-Analysis/ch02.pdf>)
+- [ch03](<Advanced-Data-Analysis/ch03.pdf>)
+- [ch04](<Advanced-Data-Analysis/ch04.pdf>)
+- [ch05](<Advanced-Data-Analysis/ch05.pdf>)
+- [ch06](<Advanced-Data-Analysis/ch06.pdf>)
+- [ch07](<Advanced-Data-Analysis/ch07.pdf>)
+- [ch08](<Advanced-Data-Analysis/ch08.pdf>)
+- [ch09](<Advanced-Data-Analysis/ch09.pdf>)
+- [ch10](<Advanced-Data-Analysis/ch10.pdf>)
+- [ch11](<Advanced-Data-Analysis/ch11.pdf>)
+- [ch12](<Advanced-Data-Analysis/ch12.pdf>)
+- [ch13](<Advanced-Data-Analysis/ch13.pdf>)
+
+## Causal Inference
+
+- [01_Introduction](<Causal-Inference/01_Introduction.pdf>)
+- [02_Models_and_Graphs](<Causal-Inference/02_Models_and_Graphs.pdf>)
+- [03_Identification](<Causal-Inference/03_Identification.pdf>)
+- [04_Backdoor](<Causal-Inference/04_Backdoor.pdf>)
+- [05_Adjustment](<Causal-Inference/05_Adjustment.pdf>)
+- [06_do-calculus](<Causal-Inference/06_do-calculus.pdf>)
+- [07_algorithmic_ID](<Causal-Inference/07_algorithmic_ID.pdf>)
+- [08_Linear_SCM](<Causal-Inference/08_Linear_SCM.pdf>)
+- [09_Partial_ID](<Causal-Inference/09_Partial_ID.pdf>)
+- [09b_Soft_Intervention](<Causal-Inference/09b_Soft_Intervention.pdf>)
+- [10-1_Potential_Outcomes](<Causal-Inference/10-1_Potential_Outcomes.pdf>)
+- [10-2_IPW_and_DR](<Causal-Inference/10-2_IPW_and_DR.pdf>)
+- [10-3_CATE](<Causal-Inference/10-3_CATE.pdf>)
+- [10-4_R_Learner](<Causal-Inference/10-4_R_Learner.pdf>)
+- [11-1_Matching](<Causal-Inference/11-1_Matching.pdf>)
+- [11-2_IV](<Causal-Inference/11-2_IV.pdf>)
+- [12_Causal_Data_Science](<Causal-Inference/12_Causal_Data_Science.pdf>)
+- [13_Regression_Discontinuity](<Causal-Inference/13_Regression_Discontinuity.pdf>)
+- [14_DiD](<Causal-Inference/14_DiD.pdf>)
+- [14b_Staggered_DiD](<Causal-Inference/14b_Staggered_DiD.pdf>)
+- [15_Synthetic_Control](<Causal-Inference/15_Synthetic_Control.pdf>)
+- [15b_Synthetic_DiD](<Causal-Inference/15b_Synthetic_DiD.pdf>)
+- [16_Causal_Discovery](<Causal-Inference/16_Causal_Discovery.pdf>)
+- [16b_Local_Causal_Discovery](<Causal-Inference/16b_Local_Causal_Discovery.pdf>)
+- [17_Direct_Indirect_Effects](<Causal-Inference/17_Direct_Indirect_Effects.pdf>)
+- [18_SWIGs](<Causal-Inference/18_SWIGs.pdf>)
+- [19_G_Methods](<Causal-Inference/19_G_Methods.pdf>)
+
+## Data Mining
+
+- [DataMining_LectureNotes_ch01-12](<Data-Mining/DataMining_LectureNotes_ch01-12.pdf>)
+- [ch01](<Data-Mining/ch01.pdf>)
+- [ch02](<Data-Mining/ch02.pdf>)
+- [ch03](<Data-Mining/ch03.pdf>)
+- [ch04](<Data-Mining/ch04.pdf>)
+- [ch05](<Data-Mining/ch05.pdf>)
+- [ch06](<Data-Mining/ch06.pdf>)
+- [ch07](<Data-Mining/ch07.pdf>)
+- [ch08](<Data-Mining/ch08.pdf>)
+- [ch09](<Data-Mining/ch09.pdf>)
+- [ch10](<Data-Mining/ch10.pdf>)
+- [ch11](<Data-Mining/ch11.pdf>)
+- [ch12](<Data-Mining/ch12.pdf>)
+
+## Design of Experiments
+
+- [DAE_problems](<Design-of-Experiments/DAE_problems.pdf>)
+- [DAE_solutions](<Design-of-Experiments/DAE_solutions.pdf>)
+- [ch01](<Design-of-Experiments/ch01.pdf>)
+- [ch02](<Design-of-Experiments/ch02.pdf>)
+- [ch03](<Design-of-Experiments/ch03.pdf>)
+- [ch04](<Design-of-Experiments/ch04.pdf>)
+- [ch05](<Design-of-Experiments/ch05.pdf>)
+- [ch06](<Design-of-Experiments/ch06.pdf>)
+- [ch07](<Design-of-Experiments/ch07.pdf>)
+- [ch10](<Design-of-Experiments/ch10.pdf>)
+- [ch13](<Design-of-Experiments/ch13.pdf>)
+- [ch14](<Design-of-Experiments/ch14.pdf>)
+- [ch15](<Design-of-Experiments/ch15.pdf>)
+
+## Multivariate Analysis
+
+- [MVA_Part1_Distributions_and_Inference_ch01-06](<Multivariate-Analysis/MVA_Part1_Distributions_and_Inference_ch01-06.pdf>)
+- [MVA_Part2_Reduction_Classification_Clustering_ch07-11](<Multivariate-Analysis/MVA_Part2_Reduction_Classification_Clustering_ch07-11.pdf>)
+- [MVA_problems](<Multivariate-Analysis/MVA_problems.pdf>)
+- [MVA_solutions](<Multivariate-Analysis/MVA_solutions.pdf>)
+- [ch01](<Multivariate-Analysis/ch01.pdf>)
+- [ch02](<Multivariate-Analysis/ch02.pdf>)
+- [ch03](<Multivariate-Analysis/ch03.pdf>)
+- [ch04](<Multivariate-Analysis/ch04.pdf>)
+- [ch05](<Multivariate-Analysis/ch05.pdf>)
+- [ch06](<Multivariate-Analysis/ch06.pdf>)
+- [ch07](<Multivariate-Analysis/ch07.pdf>)
+- [ch08](<Multivariate-Analysis/ch08.pdf>)
+- [ch09](<Multivariate-Analysis/ch09.pdf>)
+- [ch10](<Multivariate-Analysis/ch10.pdf>)
+- [ch11](<Multivariate-Analysis/ch11.pdf>)
+
+## Survival Analysis
+
+- [ch01](<Survival-Analysis/ch01.pdf>)
+- [ch02](<Survival-Analysis/ch02.pdf>)
+- [ch03](<Survival-Analysis/ch03.pdf>)
+- [ch04](<Survival-Analysis/ch04.pdf>)
+- [ch05](<Survival-Analysis/ch05.pdf>)
+- [ch06](<Survival-Analysis/ch06.pdf>)
+- [ch07](<Survival-Analysis/ch07.pdf>)
+- [ch08](<Survival-Analysis/ch08.pdf>)
+- [ch09](<Survival-Analysis/ch09.pdf>)
+- [ch10](<Survival-Analysis/ch10.pdf>)
+
