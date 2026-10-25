@@ -66,6 +66,22 @@ Lecture notes, proof supplements, and problem banks for graduate statistics cour
 - [ch11](<Data-Mining/ch11.pdf>)
 - [ch12](<Data-Mining/ch12.pdf>)
 
+## Deep Neural Networks
+
+- [DNN_Part1_Foundations_ch01-05](<Deep-Neural-Networks/DNN_Part1_Foundations_ch01-05.pdf>)
+- [DNN_Part2_Deep_Networks_ch06-11](<Deep-Neural-Networks/DNN_Part2_Deep_Networks_ch06-11.pdf>)
+- [ch01](<Deep-Neural-Networks/ch01.pdf>)
+- [ch02](<Deep-Neural-Networks/ch02.pdf>)
+- [ch03](<Deep-Neural-Networks/ch03.pdf>)
+- [ch04](<Deep-Neural-Networks/ch04.pdf>)
+- [ch05](<Deep-Neural-Networks/ch05.pdf>)
+- [ch06](<Deep-Neural-Networks/ch06.pdf>)
+- [ch07](<Deep-Neural-Networks/ch07.pdf>)
+- [ch08](<Deep-Neural-Networks/ch08.pdf>)
+- [ch09](<Deep-Neural-Networks/ch09.pdf>)
+- [ch10](<Deep-Neural-Networks/ch10.pdf>)
+- [ch11](<Deep-Neural-Networks/ch11.pdf>)
+
 ## Design of Experiments
 
 - [DAE_problems](<Design-of-Experiments/DAE_problems.pdf>)
