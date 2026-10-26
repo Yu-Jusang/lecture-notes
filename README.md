@@ -116,6 +116,13 @@ Lecture notes, proof supplements, and problem banks for graduate statistics cour
 - [ch10](<Multivariate-Analysis/ch10.pdf>)
 - [ch11](<Multivariate-Analysis/ch11.pdf>)
 
+## Real Analysis
+
+- [ch04](<Real-Analysis/ch04.pdf>)
+- [ch05](<Real-Analysis/ch05.pdf>)
+- [ch06](<Real-Analysis/ch06.pdf>)
+- [ch07](<Real-Analysis/ch07.pdf>)
+
 ## Survival Analysis
 
 - [ch01](<Survival-Analysis/ch01.pdf>)
