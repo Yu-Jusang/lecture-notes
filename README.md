@@ -104,10 +104,10 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [ch05](<Statistics/Design-of-Experiments/ch05.pdf>)
 - [ch06](<Statistics/Design-of-Experiments/ch06.pdf>)
 - [ch07](<Statistics/Design-of-Experiments/ch07.pdf>)
+- [ch08](<Statistics/Design-of-Experiments/ch08.pdf>)
+- [ch09](<Statistics/Design-of-Experiments/ch09.pdf>)
 - [ch10](<Statistics/Design-of-Experiments/ch10.pdf>)
-- [ch13](<Statistics/Design-of-Experiments/ch13.pdf>)
-- [ch14](<Statistics/Design-of-Experiments/ch14.pdf>)
-- [ch15](<Statistics/Design-of-Experiments/ch15.pdf>)
+- [ch11](<Statistics/Design-of-Experiments/ch11.pdf>)
 
 ### Multivariate Analysis
 
