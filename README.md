@@ -58,8 +58,6 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 
 ### Advanced Data Analysis
 
-- [ADA_Part1_Predictive_Modeling_ch01-07](<Statistics/Advanced-Data-Analysis/ADA_Part1_Predictive_Modeling_ch01-07.pdf>)
-- [ADA_Part2_Causal_Discovery_ch08-13](<Statistics/Advanced-Data-Analysis/ADA_Part2_Causal_Discovery_ch08-13.pdf>)
 - [ch01](<Statistics/Advanced-Data-Analysis/ch01.pdf>)
 - [ch02](<Statistics/Advanced-Data-Analysis/ch02.pdf>)
 - [ch03](<Statistics/Advanced-Data-Analysis/ch03.pdf>)
@@ -106,7 +104,6 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 
 ### Data Mining
 
-- [DataMining_LectureNotes_ch01-12](<Statistics/Data-Mining/DataMining_LectureNotes_ch01-12.pdf>)
 - [ch01](<Statistics/Data-Mining/ch01.pdf>)
 - [ch02](<Statistics/Data-Mining/ch02.pdf>)
 - [ch03](<Statistics/Data-Mining/ch03.pdf>)
