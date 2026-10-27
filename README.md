@@ -4,6 +4,19 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 
 ## Mathematics
 
+### Analysis on Manifolds
+
+- [AnalysisOnManifolds_LectureNotes_ch01-09](<Mathematics/Analysis-on-Manifolds/AnalysisOnManifolds_LectureNotes_ch01-09.pdf>)
+- [ch01](<Mathematics/Analysis-on-Manifolds/ch01.pdf>)
+- [ch02](<Mathematics/Analysis-on-Manifolds/ch02.pdf>)
+- [ch03](<Mathematics/Analysis-on-Manifolds/ch03.pdf>)
+- [ch04](<Mathematics/Analysis-on-Manifolds/ch04.pdf>)
+- [ch05](<Mathematics/Analysis-on-Manifolds/ch05.pdf>)
+- [ch06](<Mathematics/Analysis-on-Manifolds/ch06.pdf>)
+- [ch07](<Mathematics/Analysis-on-Manifolds/ch07.pdf>)
+- [ch08](<Mathematics/Analysis-on-Manifolds/ch08.pdf>)
+- [ch09](<Mathematics/Analysis-on-Manifolds/ch09.pdf>)
+
 ### Deep Neural Networks
 
 - [DNN_Part1_Foundations_ch01-05](<Mathematics/Deep-Neural-Networks/DNN_Part1_Foundations_ch01-05.pdf>)
