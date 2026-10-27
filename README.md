@@ -128,6 +128,21 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [ch10](<Statistics/Multivariate-Analysis/ch10.pdf>)
 - [ch11](<Statistics/Multivariate-Analysis/ch11.pdf>)
 
+### Sampling Design
+
+- [Sampling_LectureNotes_ch01-11](<Statistics/Sampling-Design/Sampling_LectureNotes_ch01-11.pdf>)
+- [ch01](<Statistics/Sampling-Design/ch01.pdf>)
+- [ch02](<Statistics/Sampling-Design/ch02.pdf>)
+- [ch03](<Statistics/Sampling-Design/ch03.pdf>)
+- [ch04](<Statistics/Sampling-Design/ch04.pdf>)
+- [ch05](<Statistics/Sampling-Design/ch05.pdf>)
+- [ch06](<Statistics/Sampling-Design/ch06.pdf>)
+- [ch07](<Statistics/Sampling-Design/ch07.pdf>)
+- [ch08](<Statistics/Sampling-Design/ch08.pdf>)
+- [ch09](<Statistics/Sampling-Design/ch09.pdf>)
+- [ch10](<Statistics/Sampling-Design/ch10.pdf>)
+- [ch11](<Statistics/Sampling-Design/ch11.pdf>)
+
 ### Survival Analysis
 
 - [ch01](<Statistics/Survival-Analysis/ch01.pdf>)
