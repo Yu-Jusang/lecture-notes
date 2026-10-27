@@ -58,6 +58,8 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 
 ### Advanced Data Analysis
 
+- [ADA_Part1_Predictive_Modeling_ch01-07](<Statistics/Advanced-Data-Analysis/ADA_Part1_Predictive_Modeling_ch01-07.pdf>)
+- [ADA_Part2_Causal_Discovery_ch08-13](<Statistics/Advanced-Data-Analysis/ADA_Part2_Causal_Discovery_ch08-13.pdf>)
 - [ch01](<Statistics/Advanced-Data-Analysis/ch01.pdf>)
 - [ch02](<Statistics/Advanced-Data-Analysis/ch02.pdf>)
 - [ch03](<Statistics/Advanced-Data-Analysis/ch03.pdf>)
@@ -104,6 +106,7 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 
 ### Data Mining
 
+- [DataMining_LectureNotes_ch01-12](<Statistics/Data-Mining/DataMining_LectureNotes_ch01-12.pdf>)
 - [ch01](<Statistics/Data-Mining/ch01.pdf>)
 - [ch02](<Statistics/Data-Mining/ch02.pdf>)
 - [ch03](<Statistics/Data-Mining/ch03.pdf>)
@@ -150,6 +153,23 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [ch09](<Statistics/Multivariate-Analysis/ch09.pdf>)
 - [ch10](<Statistics/Multivariate-Analysis/ch10.pdf>)
 - [ch11](<Statistics/Multivariate-Analysis/ch11.pdf>)
+
+### Nonparametric Statistics
+
+- [NonparametricStatistics_LectureNotes_ch01-12_AppA](<Statistics/Nonparametric-Statistics/NonparametricStatistics_LectureNotes_ch01-12_AppA.pdf>)
+- [appA](<Statistics/Nonparametric-Statistics/appA.pdf>)
+- [ch01](<Statistics/Nonparametric-Statistics/ch01.pdf>)
+- [ch02](<Statistics/Nonparametric-Statistics/ch02.pdf>)
+- [ch03](<Statistics/Nonparametric-Statistics/ch03.pdf>)
+- [ch04](<Statistics/Nonparametric-Statistics/ch04.pdf>)
+- [ch05](<Statistics/Nonparametric-Statistics/ch05.pdf>)
+- [ch06](<Statistics/Nonparametric-Statistics/ch06.pdf>)
+- [ch07](<Statistics/Nonparametric-Statistics/ch07.pdf>)
+- [ch08](<Statistics/Nonparametric-Statistics/ch08.pdf>)
+- [ch09](<Statistics/Nonparametric-Statistics/ch09.pdf>)
+- [ch10](<Statistics/Nonparametric-Statistics/ch10.pdf>)
+- [ch11](<Statistics/Nonparametric-Statistics/ch11.pdf>)
+- [ch12](<Statistics/Nonparametric-Statistics/ch12.pdf>)
 
 ### Sampling Design
 
