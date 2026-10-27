@@ -159,6 +159,10 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [ch10](<Statistics/Mathematical-Statistics-2/ch10.pdf>)
 - [ch11](<Statistics/Mathematical-Statistics-2/ch11.pdf>)
 
+### Mathematical Statistics Exam Practice
+
+- [MathStat_GradExam_ProblemSet](<Statistics/Mathematical-Statistics-Exam-Practice/MathStat_GradExam_ProblemSet.pdf>)
+
 ### Multivariate Analysis
 
 - [MVA_Part1_Distributions_and_Inference_ch01-06](<Statistics/Multivariate-Analysis/MVA_Part1_Distributions_and_Inference_ch01-06.pdf>)
