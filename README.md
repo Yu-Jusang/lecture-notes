@@ -35,8 +35,8 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 
 ### Deep Neural Networks
 
-- [DNN_Part1_Foundations_ch01-05](<Mathematics/Deep-Neural-Networks/DNN_Part1_Foundations_ch01-05.pdf>)
-- [DNN_Part2_Deep_Networks_ch06-11](<Mathematics/Deep-Neural-Networks/DNN_Part2_Deep_Networks_ch06-11.pdf>)
+- [DNN_Part1_Foundations_ch01-04](<Mathematics/Deep-Neural-Networks/DNN_Part1_Foundations_ch01-04.pdf>)
+- [DNN_Part2_Deep_Networks_ch05-08](<Mathematics/Deep-Neural-Networks/DNN_Part2_Deep_Networks_ch05-08.pdf>)
 - [ch01](<Mathematics/Deep-Neural-Networks/ch01.pdf>)
 - [ch02](<Mathematics/Deep-Neural-Networks/ch02.pdf>)
 - [ch03](<Mathematics/Deep-Neural-Networks/ch03.pdf>)
@@ -45,9 +45,6 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [ch06](<Mathematics/Deep-Neural-Networks/ch06.pdf>)
 - [ch07](<Mathematics/Deep-Neural-Networks/ch07.pdf>)
 - [ch08](<Mathematics/Deep-Neural-Networks/ch08.pdf>)
-- [ch09](<Mathematics/Deep-Neural-Networks/ch09.pdf>)
-- [ch10](<Mathematics/Deep-Neural-Networks/ch10.pdf>)
-- [ch11](<Mathematics/Deep-Neural-Networks/ch11.pdf>)
 
 ### Real Analysis
 
