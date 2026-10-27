@@ -140,6 +140,25 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [ch10](<Statistics/Design-of-Experiments/ch10.pdf>)
 - [ch11](<Statistics/Design-of-Experiments/ch11.pdf>)
 
+### Mathematical Statistics 1
+
+- [MathStat1_LectureNotes_ch01-05](<Statistics/Mathematical-Statistics-1/MathStat1_LectureNotes_ch01-05.pdf>)
+- [ch01](<Statistics/Mathematical-Statistics-1/ch01.pdf>)
+- [ch02](<Statistics/Mathematical-Statistics-1/ch02.pdf>)
+- [ch03](<Statistics/Mathematical-Statistics-1/ch03.pdf>)
+- [ch04](<Statistics/Mathematical-Statistics-1/ch04.pdf>)
+- [ch05](<Statistics/Mathematical-Statistics-1/ch05.pdf>)
+
+### Mathematical Statistics 2
+
+- [MathStat2_LectureNotes_ch06-11](<Statistics/Mathematical-Statistics-2/MathStat2_LectureNotes_ch06-11.pdf>)
+- [ch06](<Statistics/Mathematical-Statistics-2/ch06.pdf>)
+- [ch07](<Statistics/Mathematical-Statistics-2/ch07.pdf>)
+- [ch08](<Statistics/Mathematical-Statistics-2/ch08.pdf>)
+- [ch09](<Statistics/Mathematical-Statistics-2/ch09.pdf>)
+- [ch10](<Statistics/Mathematical-Statistics-2/ch10.pdf>)
+- [ch11](<Statistics/Mathematical-Statistics-2/ch11.pdf>)
+
 ### Multivariate Analysis
 
 - [MVA_Part1_Distributions_and_Inference_ch01-06](<Statistics/Multivariate-Analysis/MVA_Part1_Distributions_and_Inference_ch01-06.pdf>)
