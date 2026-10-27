@@ -17,21 +17,25 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [ch08](<Mathematics/Analysis-on-Manifolds/ch08.pdf>)
 - [ch09](<Mathematics/Analysis-on-Manifolds/ch09.pdf>)
 
-### Complex Analysis
+### Complex Analysis 1
 
-- [ComplexAnalysis_LectureNotes_ch01-10_AppAB](<Mathematics/Complex-Analysis/ComplexAnalysis_LectureNotes_ch01-10_AppAB.pdf>)
-- [appA](<Mathematics/Complex-Analysis/appA.pdf>)
-- [appB](<Mathematics/Complex-Analysis/appB.pdf>)
-- [ch01](<Mathematics/Complex-Analysis/ch01.pdf>)
-- [ch02](<Mathematics/Complex-Analysis/ch02.pdf>)
-- [ch03](<Mathematics/Complex-Analysis/ch03.pdf>)
-- [ch04](<Mathematics/Complex-Analysis/ch04.pdf>)
-- [ch05](<Mathematics/Complex-Analysis/ch05.pdf>)
-- [ch06](<Mathematics/Complex-Analysis/ch06.pdf>)
-- [ch07](<Mathematics/Complex-Analysis/ch07.pdf>)
-- [ch08](<Mathematics/Complex-Analysis/ch08.pdf>)
-- [ch09](<Mathematics/Complex-Analysis/ch09.pdf>)
-- [ch10](<Mathematics/Complex-Analysis/ch10.pdf>)
+- [ComplexAnalysis1_LectureNotes_ch01-07](<Mathematics/Complex-Analysis-1/ComplexAnalysis1_LectureNotes_ch01-07.pdf>)
+- [ch01](<Mathematics/Complex-Analysis-1/ch01.pdf>)
+- [ch02](<Mathematics/Complex-Analysis-1/ch02.pdf>)
+- [ch03](<Mathematics/Complex-Analysis-1/ch03.pdf>)
+- [ch04](<Mathematics/Complex-Analysis-1/ch04.pdf>)
+- [ch05](<Mathematics/Complex-Analysis-1/ch05.pdf>)
+- [ch06](<Mathematics/Complex-Analysis-1/ch06.pdf>)
+- [ch07](<Mathematics/Complex-Analysis-1/ch07.pdf>)
+
+### Complex Analysis 2
+
+- [ComplexAnalysis2_LectureNotes_ch08-10_AppAB](<Mathematics/Complex-Analysis-2/ComplexAnalysis2_LectureNotes_ch08-10_AppAB.pdf>)
+- [appA](<Mathematics/Complex-Analysis-2/appA.pdf>)
+- [appB](<Mathematics/Complex-Analysis-2/appB.pdf>)
+- [ch08](<Mathematics/Complex-Analysis-2/ch08.pdf>)
+- [ch09](<Mathematics/Complex-Analysis-2/ch09.pdf>)
+- [ch10](<Mathematics/Complex-Analysis-2/ch10.pdf>)
 
 ### Deep Neural Networks
 
