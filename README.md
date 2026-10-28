@@ -62,6 +62,7 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 
 ### Introduction to Analysis 2
 
+- [IntroAnalysis2_LectureNotes_ch06-10](<Mathematics/Introduction-to-Analysis-2/IntroAnalysis2_LectureNotes_ch06-10.pdf>)
 - [ch06](<Mathematics/Introduction-to-Analysis-2/ch06.pdf>)
 - [ch07](<Mathematics/Introduction-to-Analysis-2/ch07.pdf>)
 - [ch08](<Mathematics/Introduction-to-Analysis-2/ch08.pdf>)
