@@ -86,6 +86,15 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [IntroAnalysis2_Ch10 The Lebesgue Integral](<Mathematics/Introduction-to-Analysis-2/IntroAnalysis2_Ch10 The Lebesgue Integral.pdf>)
 - [IntroAnalysis2_Combined](<Mathematics/Introduction-to-Analysis-2/IntroAnalysis2_Combined.pdf>)
 
+### Measure Theory and Probability
+
+- [MeasureProbability_Ch01 Measure Spaces, Measurable Functions and Integration](<Mathematics/Measure-Theory-and-Probability/MeasureProbability_Ch01 Measure Spaces, Measurable Functions and Integration.pdf>)
+- [MeasureProbability_Ch02 Basic Probability Theory](<Mathematics/Measure-Theory-and-Probability/MeasureProbability_Ch02 Basic Probability Theory.pdf>)
+- [MeasureProbability_Ch03 Sequences of Random Variables](<Mathematics/Measure-Theory-and-Probability/MeasureProbability_Ch03 Sequences of Random Variables.pdf>)
+- [MeasureProbability_Ch04 Brownian Motion](<Mathematics/Measure-Theory-and-Probability/MeasureProbability_Ch04 Brownian Motion.pdf>)
+- [MeasureProbability_Ch05 The Strong Markov Property](<Mathematics/Measure-Theory-and-Probability/MeasureProbability_Ch05 The Strong Markov Property.pdf>)
+- [MeasureProbability_Combined](<Mathematics/Measure-Theory-and-Probability/MeasureProbability_Combined.pdf>)
+
 ### Real Analysis
 
 - [RealAnalysis_Background Results Used from Chapters 1-3](<Mathematics/Real-Analysis/RealAnalysis_Background Results Used from Chapters 1-3.pdf>)
@@ -241,15 +250,6 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 
 - [MathStat_GradExam_Problems](<Statistics/Mathematical-Statistics-Exam-Practice/MathStat_GradExam_Problems.pdf>)
 - [MathStat_GradExam_Solutions](<Statistics/Mathematical-Statistics-Exam-Practice/MathStat_GradExam_Solutions.pdf>)
-
-### Measure Theory and Probability
-
-- [MeasureProbability_Ch01 Measure Spaces, Measurable Functions and Integration](<Statistics/Measure-Theory-and-Probability/MeasureProbability_Ch01 Measure Spaces, Measurable Functions and Integration.pdf>)
-- [MeasureProbability_Ch02 Basic Probability Theory](<Statistics/Measure-Theory-and-Probability/MeasureProbability_Ch02 Basic Probability Theory.pdf>)
-- [MeasureProbability_Ch03 Sequences of Random Variables](<Statistics/Measure-Theory-and-Probability/MeasureProbability_Ch03 Sequences of Random Variables.pdf>)
-- [MeasureProbability_Ch04 Brownian Motion](<Statistics/Measure-Theory-and-Probability/MeasureProbability_Ch04 Brownian Motion.pdf>)
-- [MeasureProbability_Ch05 The Strong Markov Property](<Statistics/Measure-Theory-and-Probability/MeasureProbability_Ch05 The Strong Markov Property.pdf>)
-- [MeasureProbability_Combined](<Statistics/Measure-Theory-and-Probability/MeasureProbability_Combined.pdf>)
 
 ### Multivariate Analysis
 
