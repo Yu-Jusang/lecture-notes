@@ -197,6 +197,26 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [ch11](<Statistics/Nonparametric-Statistics/ch11.pdf>)
 - [ch12](<Statistics/Nonparametric-Statistics/ch12.pdf>)
 
+### Regression Analysis
+
+- [Regression_LectureNotes_ch03-16](<Statistics/Regression-Analysis/Regression_LectureNotes_ch03-16.pdf>)
+- [ch03](<Statistics/Regression-Analysis/ch03.pdf>)
+- [ch04](<Statistics/Regression-Analysis/ch04.pdf>)
+- [ch05](<Statistics/Regression-Analysis/ch05.pdf>)
+- [ch06](<Statistics/Regression-Analysis/ch06.pdf>)
+- [ch07](<Statistics/Regression-Analysis/ch07.pdf>)
+- [ch08](<Statistics/Regression-Analysis/ch08.pdf>)
+- [ch10](<Statistics/Regression-Analysis/ch10.pdf>)
+- [ch11](<Statistics/Regression-Analysis/ch11.pdf>)
+- [ch12](<Statistics/Regression-Analysis/ch12.pdf>)
+- [ch13](<Statistics/Regression-Analysis/ch13.pdf>)
+- [ch15](<Statistics/Regression-Analysis/ch15.pdf>)
+- [ch16](<Statistics/Regression-Analysis/ch16.pdf>)
+
+### Regression Exam Practice
+
+- [Regression_GradExam_ProblemSet](<Statistics/Regression-Exam-Practice/Regression_GradExam_ProblemSet.pdf>)
+
 ### Sampling Design
 
 - [Sampling_LectureNotes_ch01-11](<Statistics/Sampling-Design/Sampling_LectureNotes_ch01-11.pdf>)
