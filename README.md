@@ -4,6 +4,23 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 
 ## Mathematics
 
+### Abstract Algebra 1
+
+- [AbstractAlgebra1_LectureNotes_ch01-05](<Mathematics/Abstract-Algebra-1/AbstractAlgebra1_LectureNotes_ch01-05.pdf>)
+- [ch01](<Mathematics/Abstract-Algebra-1/ch01.pdf>)
+- [ch02](<Mathematics/Abstract-Algebra-1/ch02.pdf>)
+- [ch03](<Mathematics/Abstract-Algebra-1/ch03.pdf>)
+- [ch04](<Mathematics/Abstract-Algebra-1/ch04.pdf>)
+- [ch05](<Mathematics/Abstract-Algebra-1/ch05.pdf>)
+
+### Abstract Algebra 2
+
+- [AbstractAlgebra2_LectureNotes_ch06-09](<Mathematics/Abstract-Algebra-2/AbstractAlgebra2_LectureNotes_ch06-09.pdf>)
+- [ch06](<Mathematics/Abstract-Algebra-2/ch06.pdf>)
+- [ch07](<Mathematics/Abstract-Algebra-2/ch07.pdf>)
+- [ch08](<Mathematics/Abstract-Algebra-2/ch08.pdf>)
+- [ch09](<Mathematics/Abstract-Algebra-2/ch09.pdf>)
+
 ### Analysis on Manifolds
 
 - [AnalysisOnManifolds_LectureNotes_ch01-09](<Mathematics/Analysis-on-Manifolds/AnalysisOnManifolds_LectureNotes_ch01-09.pdf>)
