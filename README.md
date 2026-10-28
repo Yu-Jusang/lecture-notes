@@ -207,6 +207,7 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 
 ### Mathematical Statistics Exam Practice
 
+- [MathStat_GradExam_ProblemSet](<Statistics/Mathematical-Statistics-Exam-Practice/MathStat_GradExam_ProblemSet.pdf>)
 - [MathStat_GradExam_Problems](<Statistics/Mathematical-Statistics-Exam-Practice/MathStat_GradExam_Problems.pdf>)
 - [MathStat_GradExam_Solutions](<Statistics/Mathematical-Statistics-Exam-Practice/MathStat_GradExam_Solutions.pdf>)
 
@@ -276,6 +277,7 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 
 ### Regression Exam Practice
 
+- [Regression_GradExam_ProblemSet](<Statistics/Regression-Exam-Practice/Regression_GradExam_ProblemSet.pdf>)
 - [Regression_GradExam_Problems](<Statistics/Regression-Exam-Practice/Regression_GradExam_Problems.pdf>)
 - [Regression_GradExam_Solutions](<Statistics/Regression-Exam-Practice/Regression_GradExam_Solutions.pdf>)
 
