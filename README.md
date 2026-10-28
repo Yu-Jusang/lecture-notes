@@ -200,7 +200,7 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 
 ### Probability
 
-- [Probability_LectureNotes_ch01-08](<Statistics/Probability/Probability_LectureNotes_ch01-08.pdf>)
+- [Probability_LectureNotes_ch01-10](<Statistics/Probability/Probability_LectureNotes_ch01-10.pdf>)
 - [ch01](<Statistics/Probability/ch01.pdf>)
 - [ch02](<Statistics/Probability/ch02.pdf>)
 - [ch03](<Statistics/Probability/ch03.pdf>)
@@ -209,6 +209,8 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [ch06](<Statistics/Probability/ch06.pdf>)
 - [ch07](<Statistics/Probability/ch07.pdf>)
 - [ch08](<Statistics/Probability/ch08.pdf>)
+- [ch09](<Statistics/Probability/ch09.pdf>)
+- [ch10](<Statistics/Probability/ch10.pdf>)
 
 ### Regression Analysis
 
