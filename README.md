@@ -234,6 +234,21 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [ch10](<Statistics/Sampling-Design/ch10.pdf>)
 - [ch11](<Statistics/Sampling-Design/ch11.pdf>)
 
+### Statistical Computing
+
+- [StatComp_LectureNotes_ch01-11](<Statistics/Statistical-Computing/StatComp_LectureNotes_ch01-11.pdf>)
+- [ch01](<Statistics/Statistical-Computing/ch01.pdf>)
+- [ch02](<Statistics/Statistical-Computing/ch02.pdf>)
+- [ch03](<Statistics/Statistical-Computing/ch03.pdf>)
+- [ch04](<Statistics/Statistical-Computing/ch04.pdf>)
+- [ch05](<Statistics/Statistical-Computing/ch05.pdf>)
+- [ch06](<Statistics/Statistical-Computing/ch06.pdf>)
+- [ch07](<Statistics/Statistical-Computing/ch07.pdf>)
+- [ch08](<Statistics/Statistical-Computing/ch08.pdf>)
+- [ch09](<Statistics/Statistical-Computing/ch09.pdf>)
+- [ch10](<Statistics/Statistical-Computing/ch10.pdf>)
+- [ch11](<Statistics/Statistical-Computing/ch11.pdf>)
+
 ### Survival Analysis
 
 - [ch01](<Statistics/Survival-Analysis/ch01.pdf>)
