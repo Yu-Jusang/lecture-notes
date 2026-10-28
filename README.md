@@ -78,6 +78,11 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [ch12](<Statistics/Advanced-Data-Analysis/ch12.pdf>)
 - [ch13](<Statistics/Advanced-Data-Analysis/ch13.pdf>)
 
+### BOK Statistics Exam Practice
+
+- [BOK_Statistics_Problems](<Statistics/BOK-Statistics-Exam-Practice/BOK_Statistics_Problems.pdf>)
+- [BOK_Statistics_Solutions](<Statistics/BOK-Statistics-Exam-Practice/BOK_Statistics_Solutions.pdf>)
+
 ### Causal Inference
 
 - [01_Introduction](<Statistics/Causal-Inference/01_Introduction.pdf>)
