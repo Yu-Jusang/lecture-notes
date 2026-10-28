@@ -189,6 +189,20 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [ch13](<Statistics/Computational-Statistics/ch13.pdf>)
 - [ch14](<Statistics/Computational-Statistics/ch14.pdf>)
 
+### Data Analysis
+
+- [DataAnalysis_LectureNotes_L02-11](<Statistics/Data-Analysis/DataAnalysis_LectureNotes_L02-11.pdf>)
+- [ch02](<Statistics/Data-Analysis/ch02.pdf>)
+- [ch03](<Statistics/Data-Analysis/ch03.pdf>)
+- [ch04](<Statistics/Data-Analysis/ch04.pdf>)
+- [ch05](<Statistics/Data-Analysis/ch05.pdf>)
+- [ch06](<Statistics/Data-Analysis/ch06.pdf>)
+- [ch07](<Statistics/Data-Analysis/ch07.pdf>)
+- [ch08](<Statistics/Data-Analysis/ch08.pdf>)
+- [ch09](<Statistics/Data-Analysis/ch09.pdf>)
+- [ch10](<Statistics/Data-Analysis/ch10.pdf>)
+- [ch11](<Statistics/Data-Analysis/ch11.pdf>)
+
 ### Data Mining
 
 - [DataMining_LectureNotes_ch01-12](<Statistics/Data-Mining/DataMining_LectureNotes_ch01-12.pdf>)
