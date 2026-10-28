@@ -172,6 +172,23 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [18_SWIGs](<Statistics/Causal-Inference/18_SWIGs.pdf>)
 - [19_G_Methods](<Statistics/Causal-Inference/19_G_Methods.pdf>)
 
+### Computational Statistics
+
+- [CompStat_LectureNotes_L01-14](<Statistics/Computational-Statistics/CompStat_LectureNotes_L01-14.pdf>)
+- [ch01](<Statistics/Computational-Statistics/ch01.pdf>)
+- [ch02](<Statistics/Computational-Statistics/ch02.pdf>)
+- [ch03](<Statistics/Computational-Statistics/ch03.pdf>)
+- [ch04](<Statistics/Computational-Statistics/ch04.pdf>)
+- [ch05](<Statistics/Computational-Statistics/ch05.pdf>)
+- [ch06](<Statistics/Computational-Statistics/ch06.pdf>)
+- [ch07](<Statistics/Computational-Statistics/ch07.pdf>)
+- [ch08](<Statistics/Computational-Statistics/ch08.pdf>)
+- [ch09](<Statistics/Computational-Statistics/ch09.pdf>)
+- [ch10](<Statistics/Computational-Statistics/ch10.pdf>)
+- [ch12](<Statistics/Computational-Statistics/ch12.pdf>)
+- [ch13](<Statistics/Computational-Statistics/ch13.pdf>)
+- [ch14](<Statistics/Computational-Statistics/ch14.pdf>)
+
 ### Data Mining
 
 - [DataMining_LectureNotes_ch01-12](<Statistics/Data-Mining/DataMining_LectureNotes_ch01-12.pdf>)
