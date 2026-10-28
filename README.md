@@ -224,6 +224,7 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [DesignOfExperiments_Ch09 Experiments with Random Factors](<Statistics/Design-of-Experiments/DesignOfExperiments_Ch09 Experiments with Random Factors.pdf>)
 - [DesignOfExperiments_Ch10 Nested and Split-Plot Designs](<Statistics/Design-of-Experiments/DesignOfExperiments_Ch10 Nested and Split-Plot Designs.pdf>)
 - [DesignOfExperiments_Ch11 The Analysis of Covariance (ANACOVA)](<Statistics/Design-of-Experiments/DesignOfExperiments_Ch11 The Analysis of Covariance (ANACOVA).pdf>)
+- [DesignOfExperiments_Combined](<Statistics/Design-of-Experiments/DesignOfExperiments_Combined.pdf>)
 - [DesignOfExperiments_Problems](<Statistics/Design-of-Experiments/DesignOfExperiments_Problems.pdf>)
 - [DesignOfExperiments_Solutions](<Statistics/Design-of-Experiments/DesignOfExperiments_Solutions.pdf>)
 
