@@ -105,6 +105,17 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [IntroAnalysis2_Ch10 The Lebesgue Integral](<Mathematics/Introduction-to-Analysis-2/IntroAnalysis2_Ch10 The Lebesgue Integral.pdf>)
 - [IntroAnalysis2_Combined](<Mathematics/Introduction-to-Analysis-2/IntroAnalysis2_Combined.pdf>)
 
+### Linear Algebra
+
+- [LinearAlgebra_Appendices](<Mathematics/Linear-Algebra/LinearAlgebra_Appendices.pdf>)
+- [LinearAlgebra_Ch01 Vector Spaces](<Mathematics/Linear-Algebra/LinearAlgebra_Ch01 Vector Spaces.pdf>)
+- [LinearAlgebra_Ch02 Linear Transformations and Matrices](<Mathematics/Linear-Algebra/LinearAlgebra_Ch02 Linear Transformations and Matrices.pdf>)
+- [LinearAlgebra_Ch03 Elementary Matrix Operations and Systems of Linear Equations](<Mathematics/Linear-Algebra/LinearAlgebra_Ch03 Elementary Matrix Operations and Systems of Linear Equations.pdf>)
+- [LinearAlgebra_Ch04 Determinants](<Mathematics/Linear-Algebra/LinearAlgebra_Ch04 Determinants.pdf>)
+- [LinearAlgebra_Ch05 Diagonalization](<Mathematics/Linear-Algebra/LinearAlgebra_Ch05 Diagonalization.pdf>)
+- [LinearAlgebra_Ch06 Inner Product Spaces](<Mathematics/Linear-Algebra/LinearAlgebra_Ch06 Inner Product Spaces.pdf>)
+- [LinearAlgebra_Combined](<Mathematics/Linear-Algebra/LinearAlgebra_Combined.pdf>)
+
 ### Measure Theory and Probability
 
 - [MeasureProbability_Ch01 Measure Spaces, Measurable Functions and Integration](<Mathematics/Measure-Theory-and-Probability/MeasureProbability_Ch01 Measure Spaces, Measurable Functions and Integration.pdf>)
