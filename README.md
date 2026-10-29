@@ -406,6 +406,22 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [StatisticalComputing_L10 Monte Carlo Integration](<Statistics/Statistical-Computing/StatisticalComputing_L10 Monte Carlo Integration.pdf>)
 - [StatisticalComputing_L11 Markov Chain Monte Carlo](<Statistics/Statistical-Computing/StatisticalComputing_L11 Markov Chain Monte Carlo.pdf>)
 
+### Statistics
+
+- [Statistics_Ch01 Generating Data](<Statistics/Statistics/Statistics_Ch01 Generating Data.pdf>)
+- [Statistics_Ch02 Populations and Samples](<Statistics/Statistics/Statistics_Ch02 Populations and Samples.pdf>)
+- [Statistics_Ch03 Probability and Probability Distributions](<Statistics/Statistics/Statistics_Ch03 Probability and Probability Distributions.pdf>)
+- [Statistics_Ch04 Sampling Distributions](<Statistics/Statistics/Statistics_Ch04 Sampling Distributions.pdf>)
+- [Statistics_Ch05 Statistical Inference](<Statistics/Statistics/Statistics_Ch05 Statistical Inference.pdf>)
+- [Statistics_Ch06 Inference about Distributions](<Statistics/Statistics/Statistics_Ch06 Inference about Distributions.pdf>)
+- [Statistics_Ch07 Analysis of Discrete Data](<Statistics/Statistics/Statistics_Ch07 Analysis of Discrete Data.pdf>)
+- [Statistics_Ch08 Correlation and Regression Analysis](<Statistics/Statistics/Statistics_Ch08 Correlation and Regression Analysis.pdf>)
+- [Statistics_Ch09 Analysis of Variance](<Statistics/Statistics/Statistics_Ch09 Analysis of Variance.pdf>)
+- [Statistics_Ch10 Nonparametric Inference](<Statistics/Statistics/Statistics_Ch10 Nonparametric Inference.pdf>)
+- [Statistics_Ch11 Time Series Analysis](<Statistics/Statistics/Statistics_Ch11 Time Series Analysis.pdf>)
+- [Statistics_Ch12 Sample Surveys](<Statistics/Statistics/Statistics_Ch12 Sample Surveys.pdf>)
+- [Statistics_Combined](<Statistics/Statistics/Statistics_Combined.pdf>)
+
 ### Survival Analysis
 
 - [SurvivalAnalysis_Combined](<Statistics/Survival-Analysis/SurvivalAnalysis_Combined.pdf>)
