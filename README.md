@@ -116,6 +116,18 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [LinearAlgebra_Ch06 Inner Product Spaces](<Mathematics/Linear-Algebra/LinearAlgebra_Ch06 Inner Product Spaces.pdf>)
 - [LinearAlgebra_Combined](<Mathematics/Linear-Algebra/LinearAlgebra_Combined.pdf>)
 
+### Linear Algebra 2
+
+- [LinearAlgebra2_Ch09 Rigid Motions of Euclidean Space](<Mathematics/Linear-Algebra-2/LinearAlgebra2_Ch09 Rigid Motions of Euclidean Space.pdf>)
+- [LinearAlgebra2_Ch10 Inner Product Spaces](<Mathematics/Linear-Algebra-2/LinearAlgebra2_Ch10 Inner Product Spaces.pdf>)
+- [LinearAlgebra2_Ch11 Groups](<Mathematics/Linear-Algebra-2/LinearAlgebra2_Ch11 Groups.pdf>)
+- [LinearAlgebra2_Ch12 Quotients](<Mathematics/Linear-Algebra-2/LinearAlgebra2_Ch12 Quotients.pdf>)
+- [LinearAlgebra2_Ch13 Bilinear Forms](<Mathematics/Linear-Algebra-2/LinearAlgebra2_Ch13 Bilinear Forms.pdf>)
+- [LinearAlgebra2_Ch14 Hermitian Forms](<Mathematics/Linear-Algebra-2/LinearAlgebra2_Ch14 Hermitian Forms.pdf>)
+- [LinearAlgebra2_Ch15 The Spectral Theorem](<Mathematics/Linear-Algebra-2/LinearAlgebra2_Ch15 The Spectral Theorem.pdf>)
+- [LinearAlgebra2_Ch16 A Taste of Topology](<Mathematics/Linear-Algebra-2/LinearAlgebra2_Ch16 A Taste of Topology.pdf>)
+- [LinearAlgebra2_Combined](<Mathematics/Linear-Algebra-2/LinearAlgebra2_Combined.pdf>)
+
 ### Measure Theory and Probability
 
 - [MeasureProbability_Ch01 Measure Spaces, Measurable Functions and Integration](<Mathematics/Measure-Theory-and-Probability/MeasureProbability_Ch01 Measure Spaces, Measurable Functions and Integration.pdf>)
