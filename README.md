@@ -67,6 +67,25 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [DeepNeuralNetworks_Ch09 Recurrent Neural Networks and LSTM](<Mathematics/Deep-Neural-Networks/DeepNeuralNetworks_Ch09 Recurrent Neural Networks and LSTM.pdf>)
 - [DeepNeuralNetworks_Combined](<Mathematics/Deep-Neural-Networks/DeepNeuralNetworks_Combined.pdf>)
 
+### Discrete Mathematics
+
+- [DiscreteMath_Ch01 The Pigeon-Hole Principle](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch01 The Pigeon-Hole Principle.pdf>)
+- [DiscreteMath_Ch02 The Method of Mathematical Induction](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch02 The Method of Mathematical Induction.pdf>)
+- [DiscreteMath_Ch03 Elementary Counting Problems](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch03 Elementary Counting Problems.pdf>)
+- [DiscreteMath_Ch04 The Binomial Theorem and Related Identities](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch04 The Binomial Theorem and Related Identities.pdf>)
+- [DiscreteMath_Ch05 Partitions](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch05 Partitions.pdf>)
+- [DiscreteMath_Ch06 Cycles in Permutations](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch06 Cycles in Permutations.pdf>)
+- [DiscreteMath_Ch07 The Sieve](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch07 The Sieve.pdf>)
+- [DiscreteMath_Ch08 Generating Functions](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch08 Generating Functions.pdf>)
+- [DiscreteMath_Ch09 The Origins of Graph Theory](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch09 The Origins of Graph Theory.pdf>)
+- [DiscreteMath_Ch10 Trees](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch10 Trees.pdf>)
+- [DiscreteMath_Ch11 Coloring and Matching](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch11 Coloring and Matching.pdf>)
+- [DiscreteMath_Ch12 Planar Graphs](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch12 Planar Graphs.pdf>)
+- [DiscreteMath_Ch13 Ramsey Theory](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch13 Ramsey Theory.pdf>)
+- [DiscreteMath_Ch14 Subsequence Conditions on Permutations](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch14 Subsequence Conditions on Permutations.pdf>)
+- [DiscreteMath_Ch15 The Probabilistic Method](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch15 The Probabilistic Method.pdf>)
+- [DiscreteMath_Combined](<Mathematics/Discrete-Mathematics/DiscreteMath_Combined.pdf>)
+
 ### Introduction to Analysis 1
 
 - [IntroAnalysis1_AppA The Number Systems](<Mathematics/Introduction-to-Analysis-1/IntroAnalysis1_AppA The Number Systems.pdf>)
