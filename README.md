@@ -294,7 +294,7 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [DiscreteData_Ch06 Building and Applying Logistic Regression Models](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch06 Building and Applying Logistic Regression Models.pdf>)
 - [DiscreteData_Ch07 Logit Models for Multinomial Responses](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch07 Logit Models for Multinomial Responses.pdf>)
 - [DiscreteData_Ch08 Loglinear Models for Contingency Tables](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch08 Loglinear Models for Contingency Tables.pdf>)
-- [DiscreteData_Ch09 Building and Extending LoglinearLogit Models](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch09 Building and Extending LoglinearLogit Models.pdf>)
+- [DiscreteData_Ch09 Building and Extending Loglinear-Logit Models](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch09 Building and Extending Loglinear-Logit Models.pdf>)
 - [DiscreteData_Ch10 Models for Matched Pairs](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch10 Models for Matched Pairs.pdf>)
 - [DiscreteData_Ch11 Analyzing Repeated Categorical Response Data](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch11 Analyzing Repeated Categorical Response Data.pdf>)
 - [DiscreteData_Combined](<Statistics/Discrete-Data-Analysis/DiscreteData_Combined.pdf>)
