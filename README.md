@@ -284,6 +284,21 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [DesignOfExperiments_Problems](<Statistics/Design-of-Experiments/DesignOfExperiments_Problems.pdf>)
 - [DesignOfExperiments_Solutions](<Statistics/Design-of-Experiments/DesignOfExperiments_Solutions.pdf>)
 
+### Discrete Data Analysis
+
+- [DiscreteData_Ch01 Distributions and Inference for Categorical Data](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch01 Distributions and Inference for Categorical Data.pdf>)
+- [DiscreteData_Ch02 Describing Contingency Tables](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch02 Describing Contingency Tables.pdf>)
+- [DiscreteData_Ch03 Inference for Contingency Tables](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch03 Inference for Contingency Tables.pdf>)
+- [DiscreteData_Ch04 Introduction to Generalized Linear Models](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch04 Introduction to Generalized Linear Models.pdf>)
+- [DiscreteData_Ch05 Logistic Regression](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch05 Logistic Regression.pdf>)
+- [DiscreteData_Ch06 Building and Applying Logistic Regression Models](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch06 Building and Applying Logistic Regression Models.pdf>)
+- [DiscreteData_Ch07 Logit Models for Multinomial Responses](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch07 Logit Models for Multinomial Responses.pdf>)
+- [DiscreteData_Ch08 Loglinear Models for Contingency Tables](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch08 Loglinear Models for Contingency Tables.pdf>)
+- [DiscreteData_Ch09 Building and Extending LoglinearLogit Models](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch09 Building and Extending LoglinearLogit Models.pdf>)
+- [DiscreteData_Ch10 Models for Matched Pairs](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch10 Models for Matched Pairs.pdf>)
+- [DiscreteData_Ch11 Analyzing Repeated Categorical Response Data](<Statistics/Discrete-Data-Analysis/DiscreteData_Ch11 Analyzing Repeated Categorical Response Data.pdf>)
+- [DiscreteData_Combined](<Statistics/Discrete-Data-Analysis/DiscreteData_Combined.pdf>)
+
 ### Mathematical Statistics 1
 
 - [MathStat1_Ch01 Probability Distributions](<Statistics/Mathematical-Statistics-1/MathStat1_Ch01 Probability Distributions.pdf>)
