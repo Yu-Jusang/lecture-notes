@@ -86,6 +86,19 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [DiscreteMath_Ch15 The Probabilistic Method](<Mathematics/Discrete-Mathematics/DiscreteMath_Ch15 The Probabilistic Method.pdf>)
 - [DiscreteMath_Combined](<Mathematics/Discrete-Mathematics/DiscreteMath_Combined.pdf>)
 
+### Fourier Analysis
+
+- [FourierAnalysis_Appendix Integration](<Mathematics/Fourier-Analysis/FourierAnalysis_Appendix Integration.pdf>)
+- [FourierAnalysis_Ch01 The Genesis of Fourier Analysis](<Mathematics/Fourier-Analysis/FourierAnalysis_Ch01 The Genesis of Fourier Analysis.pdf>)
+- [FourierAnalysis_Ch02 Basic Properties of Fourier Series](<Mathematics/Fourier-Analysis/FourierAnalysis_Ch02 Basic Properties of Fourier Series.pdf>)
+- [FourierAnalysis_Ch03 Convergence of Fourier Series](<Mathematics/Fourier-Analysis/FourierAnalysis_Ch03 Convergence of Fourier Series.pdf>)
+- [FourierAnalysis_Ch04 Some Applications of Fourier Series](<Mathematics/Fourier-Analysis/FourierAnalysis_Ch04 Some Applications of Fourier Series.pdf>)
+- [FourierAnalysis_Ch05 The Fourier Transform on R](<Mathematics/Fourier-Analysis/FourierAnalysis_Ch05 The Fourier Transform on R.pdf>)
+- [FourierAnalysis_Ch06 The Fourier Transform on Rd](<Mathematics/Fourier-Analysis/FourierAnalysis_Ch06 The Fourier Transform on Rd.pdf>)
+- [FourierAnalysis_Ch07 Finite Fourier Analysis](<Mathematics/Fourier-Analysis/FourierAnalysis_Ch07 Finite Fourier Analysis.pdf>)
+- [FourierAnalysis_Ch08 Dirichlet's Theorem](<Mathematics/Fourier-Analysis/FourierAnalysis_Ch08 Dirichlet's Theorem.pdf>)
+- [FourierAnalysis_Combined](<Mathematics/Fourier-Analysis/FourierAnalysis_Combined.pdf>)
+
 ### Introduction to Analysis 1
 
 - [IntroAnalysis1_AppA The Number Systems](<Mathematics/Introduction-to-Analysis-1/IntroAnalysis1_AppA The Number Systems.pdf>)
