@@ -450,3 +450,15 @@ Lecture notes, proof supplements, and problem banks for mathematics and statisti
 - [SurvivalAnalysis_L08 Estimation of Basic Quantities for Other Sampling Schemes (Part 2)](<Statistics/Survival-Analysis/SurvivalAnalysis_L08 Estimation of Basic Quantities for Other Sampling Schemes (Part 2).pdf>)
 - [SurvivalAnalysis_L09 Hypothesis Testing (Part 1)](<Statistics/Survival-Analysis/SurvivalAnalysis_L09 Hypothesis Testing (Part 1).pdf>)
 - [SurvivalAnalysis_L10 Hypothesis Testing (Part 2)](<Statistics/Survival-Analysis/SurvivalAnalysis_L10 Hypothesis Testing (Part 2).pdf>)
+
+### Time Series Analysis
+
+- [TimeSeries_Ch01 Time Series Data](<Statistics/Time-Series-Analysis/TimeSeries_Ch01 Time Series Data.pdf>)
+- [TimeSeries_Ch02 ARMA Models](<Statistics/Time-Series-Analysis/TimeSeries_Ch02 ARMA Models.pdf>)
+- [TimeSeries_Ch03 Inference for Stationary ARMA Models](<Statistics/Time-Series-Analysis/TimeSeries_Ch03 Inference for Stationary ARMA Models.pdf>)
+- [TimeSeries_Ch04 Nonstationary Time Series Models and Model Selection](<Statistics/Time-Series-Analysis/TimeSeries_Ch04 Nonstationary Time Series Models and Model Selection.pdf>)
+- [TimeSeries_Ch05 Seasonal Time Series Models](<Statistics/Time-Series-Analysis/TimeSeries_Ch05 Seasonal Time Series Models.pdf>)
+- [TimeSeries_Ch06 Conditional Heteroscedasticity Models](<Statistics/Time-Series-Analysis/TimeSeries_Ch06 Conditional Heteroscedasticity Models.pdf>)
+- [TimeSeries_Ch07 Multivariate Time Series](<Statistics/Time-Series-Analysis/TimeSeries_Ch07 Multivariate Time Series.pdf>)
+- [TimeSeries_Ch08 Integer-Valued Time Series Models](<Statistics/Time-Series-Analysis/TimeSeries_Ch08 Integer-Valued Time Series Models.pdf>)
+- [TimeSeries_Combined](<Statistics/Time-Series-Analysis/TimeSeries_Combined.pdf>)
